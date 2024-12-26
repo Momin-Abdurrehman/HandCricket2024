@@ -30,7 +30,7 @@ Hand Cricket 2024 is a virtual recreation of the classic hand cricket game that 
 ## How to Run and Deploy
 1. **Clone the Repository**:
    ```bash
-     git clone <your-repo-link>
+     git clone [<your-repo-link>](https://github.com/Momin-Abdurrehman/HandCricket2024.git)
    
 2. **Navigate to the Project Folder**:
     cd Hand-Cricket-2024
