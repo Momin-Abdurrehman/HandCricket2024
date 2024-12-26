@@ -41,7 +41,8 @@ Hand Cricket 2024 is a virtual recreation of the classic hand cricket game that 
 4. **Run the Game**:
    ./hand_cricket
 
-   
+## Important Notice
+   - **Only Macbook compatibility for now.**:
 
    
    
