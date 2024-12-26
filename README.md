@@ -36,7 +36,7 @@ Hand Cricket 2024 is a virtual recreation of the classic hand cricket game that 
     cd Hand-Cricket-2024
    
 3. **Compile the Code**:
-    g++ -o hand_cricket ProjectWork.cpp
+    g++ -o hand_cricket handcricket2024.cpp
 
 4. **Run the Game**:
    ./hand_cricket
